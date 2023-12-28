@@ -1,0 +1,12 @@
+﻿  main.c
+C:\Users\user\Downloads\Blackjack_x5786x-main\c_project\main.c(75,23): warning C4020: 'playerBet': 實質參數太多
+C:\Users\user\Downloads\Blackjack_x5786x-main\c_project\main.c(80,24): warning C4047: '函式': 'Card *' 與 'Card (*)[52]' 間接取值的層級不同
+C:\Users\user\Downloads\Blackjack_x5786x-main\c_project\main.c(80,19): warning C4024: 'deal': 型式和實質參數 2 不同的類型
+C:\Users\user\Downloads\Blackjack_x5786x-main\c_project\main.c(81,24): warning C4047: '函式': 'Card *' 與 'Card (*)[52]' 間接取值的層級不同
+C:\Users\user\Downloads\Blackjack_x5786x-main\c_project\main.c(81,19): warning C4024: 'deal': 型式和實質參數 2 不同的類型
+C:\Users\user\Downloads\Blackjack_x5786x-main\c_project\main.c(109,26): warning C4047: '函式': 'Card *' 與 'Card (*)[52]' 間接取值的層級不同
+C:\Users\user\Downloads\Blackjack_x5786x-main\c_project\main.c(109,21): warning C4024: 'deal': 型式和實質參數 2 不同的類型
+C:\Users\user\Downloads\Blackjack_x5786x-main\c_project\main.c(127,24): warning C4047: '函式': 'Card *' 與 'Card (*)[52]' 間接取值的層級不同
+C:\Users\user\Downloads\Blackjack_x5786x-main\c_project\main.c(127,19): warning C4024: 'deal': 型式和實質參數 2 不同的類型
+C:\Users\user\Downloads\Blackjack_x5786x-main\c_project\main.c(14,34): warning C4101: 'total': 未參考的區域變數
+  c_project.vcxproj -> C:\Users\user\Downloads\Blackjack_x5786x-main\x64\Debug\c_project.exe

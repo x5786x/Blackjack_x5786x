@@ -1,0 +1,3 @@
+D:\c_project\c_project\x64\Debug\c_project.exe
+F:\c_project\c_project\x64\Debug\c_project.exe
+C:\Users\user\Downloads\Blackjack_x5786x-main\c_project\x64\Debug\c_project.exe
